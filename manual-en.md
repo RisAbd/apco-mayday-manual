@@ -8,6 +8,9 @@
 > numbered for convenience — the original manual gives them as headings only.
 >
 > Russian version: [`manual-ru.md`](manual-ru.md)
+>
+> **© Text and photographs: APCO Aviation Ltd. — all rights reserved.** This is an unofficial
+> reproduction with no affiliation to APCO; see [`README.md`](README.md#авторские-права) for details.
 
 ---
 

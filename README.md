@@ -44,8 +44,30 @@
 - усилие выхода замыкающей петли: **≤ 400 г** за стропы, **≤ 200 г** напрямую за фал;
 - интервал переукладки — **раз в 6 месяцев**.
 
+## Авторские права
+
+**Правообладатель текста и всех фотографий — APCO Aviation Ltd.** (7 Chalamish St., Ind. Park
+Caesarea, 3088900, Израиль). Это неофициальная перепечатка и перевод, сделанные пилотом для
+собственной переукладки запаски; никакой связи с APCO Aviation у этого репозитория нет.
+
+Отдельной лицензии у мануала нет: в самом PDF нет ни знака ©, ни лицензионной оговорки, а
+[условия сайта APCO](https://www.apcoaviation.com/terms-conditions/) гласят:
+
+> This website is protected by Copyright and the Copyright, Trademarks, logos and Intellectual
+> Property rights for the content of the website are the property of Apco Aviation.
+> **ALL RIGHTS RESERVED.**
+> Any use, printing or copying of materials on this website, other than in the course of browsing,
+> selecting products and ordering from us, is strictly prohibited.
+
+Оригинал бесплатно доступен на сайте производителя:
+[страница мануалов](https://www.apcoaviation.com/product-manuals/) ·
+[manual_mayday.pdf](https://www.apcoaviation.com/wp-content/uploads/2017/12/manual_mayday.pdf).
+
+**По первой просьбе APCO Aviation Ltd. репозиторий будет закрыт или удалён** — достаточно
+написать в issues или на контакты в профиле.
+
 ## Оговорка
 
-Это неофициальная перепечатка и перевод. Правообладатель текста и фотографий — APCO Aviation Ltd.
-Материал выложен для удобства чтения; при любых расхождениях с оригиналом верен оригинальный PDF.
-Укладку запаски должен выполнять квалифицированный укладчик.
+Материал выложен исключительно для удобства чтения. При любых расхождениях с оригиналом верен
+оригинальный PDF. Укладку запасного парашюта должен выполнять квалифицированный укладчик; ни
+перевод, ни эта перепечатка не заменяют обучение и не снимают ответственности с пилота.
